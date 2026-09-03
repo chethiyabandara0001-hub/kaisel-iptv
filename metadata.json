@@ -1,0 +1,6 @@
+{
+  "name": "Kaisel - Official Android App Distribution",
+  "description": "Official independent Android application distribution portal for Kaisel apps including Kaisel IPTV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
